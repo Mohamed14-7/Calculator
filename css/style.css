@@ -50,3 +50,8 @@ button {
 .clear {
   background-color: #aaf;
 }
+
+.theMaker {
+  width: 200px;
+  margin: auto;
+}
