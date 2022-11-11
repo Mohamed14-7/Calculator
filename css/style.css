@@ -38,9 +38,10 @@ button {
 
 /* End Global */
 .show {
-  padding: 50px;
+  padding: 50px 20px;
   background-color: #ddd;
   border: 2px solid #000;
+  font-size: 20px;
 }
 
 .delete {
